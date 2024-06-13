@@ -20,7 +20,7 @@ class SuccessFlushBar extends Flushbar {
 
   @override
   FlushbarPosition get flushbarPosition =>
-      FlushbarPosition.TOP;
+      FlushbarPosition.BOTTOM;
 
   @override
   Duration? get duration =>
